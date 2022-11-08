@@ -19,10 +19,11 @@ Within this dataset are a number of columns that capture metadata about each org
 * ASK_AMT—Funding amount requested
 * IS_SUCCESSFUL—Was the money used effectively
 
-used these columns to check what information was absolutely necessary or what could be dropped as I moved through the model.
+Used these columns to check what information was absolutely necessary or what could be dropped as I moved through the model.
 
 Looked at application types to help preprocess our data.
-![app_types.png](Images/app_types.png_)
+
+![app_types.png](Images/app_types.png)
 
 ## Results
 
@@ -31,10 +32,12 @@ Looked at application types to help preprocess our data.
 * Train, Fit/test and Scaled the data
 
 First Model
-![first_model.png](Images/first_model.png)
+
+ ![first_model.png](Images/first_model.png)
 
 Additional models 2 & 3 did not give much optimization
-![optim2.png](Images/optim_2.png.png)
+
+ ![optim_2.png](Images/optim_2.png)
 
 ## Summary
 
